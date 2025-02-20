@@ -26,8 +26,8 @@
 | 9    | Codeforces Beta Round 4 (Div. 2 Only) C. Registration System              | ILK-515.cpp   |  
 
 ### 3. vnoi
-| No   | Problem Name                                       | File Name       |
-|------|----------------------------------------------------|-----------------|
+| No   | Problem Name                                       | File Name     |
+|------|----------------------------------------------------|---------------|
 | 1    | Bedao Mini Contest 25 - Trọng số lẻ                | 50H-16660.cpp |
 
 ### 4. lqdoj
@@ -36,7 +36,7 @@
 | 1    | Hành Trình Không Dừng                              | hanhtrinhkhongdung.cpp |
 
 ### 5. LeetCode
-| No   | Problem Name                                       | File Name              |
-|------|----------------------------------------------------|------------------------|
-| 1    | 1.Two Sum                                          | 29H-93843.cpp          |
-| 2    | 3. Longest Substring Without Repeating Characters  | 29K-09863.cpp          | 
+| No   | Problem Name                                       | File Name     |
+|------|----------------------------------------------------|---------------|
+| 1    | 1.Two Sum                                          | 29H-93843.cpp |
+| 2    | 3. Longest Substring Without Repeating Characters  | 29K-09863.cpp | 
