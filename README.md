@@ -31,9 +31,9 @@
 | 1    | Bedao Mini Contest 25 - Trọng số lẻ                | 50H-16660.cpp |
 
 ### 4. lqdoj
-| No   | Problem Name                                       | File Name              |
-|------|----------------------------------------------------|------------------------|
-| 1    | Hành Trình Không Dừng                              | hanhtrinhkhongdung.cpp |
+| No   | Problem Name                                       | File Name     |
+|------|----------------------------------------------------|---------------|
+| 1    | Hành Trình Không Dừng                              | 36B-02568.cpp |
 
 ### 5. LeetCode
 | No   | Problem Name                                       | File Name     |
