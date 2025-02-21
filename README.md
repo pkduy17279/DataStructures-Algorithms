@@ -47,3 +47,5 @@
 | 1    | 1.Two Sum                                         | Easy   | 29H-93843.cpp |
 | 2    | 3. Longest Substring Without Repeating Characters | Medium | 29K-09863.cpp |
 | 3    | 7. Reverse Integer                                | Medium | 29B-61520.cpp | 
+
+### The 'pttt' and 'ThayDung' repositories was created to recover and save all source codes about Competitive Programming that I have learned at Chu Van An National High School for the Gifted.
