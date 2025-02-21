@@ -1,16 +1,22 @@
 #### This repository is created to store my codes when I learnt about Data Structures and Algorithms
 ### 1. cses
-| No   | Problem Name               | Topic                 | File Name     |
-|------|----------------------------|-----------------------|---------------|
-| 1    | Weird Algorithms           | Introductory Problems | 15RM-02154.py |
-| 2    | Missing Number             | Introductory Problems | 15RM-01164.py |
-| 3    | Repetitions                | Introductory Problems | 15K-40447.py  |
-| 4    | Increasing Array           | Introductory Problems | 15H-02261.py  |
-| 5    | Permutations               | Introductory Problems | 15F-00279.py  |
-| 6    | Number Spiral              | Introductory Problems | 15B-00968.py  |
-| 7    | Distinct Numbers           | Sorting and Searching | 34F-00356.py  |
-| 8    | Sum of Two Values          | Sorting and Searching | 14A-83159.cpp | 
-| 9    | Two Knights                | Introductory Problems | 14A-34572.cpp |
+| No   | Problem Name               | Topic                 | File Name |
+|------|----------------------------|-----------------------|-----------|
+| 1    | Weird Algorithms           | Introductory Problems | 1068.py   |
+| 2    | Missing Number             | Introductory Problems | 1083.py   |
+| 3    | Repetitions                | Introductory Problems | 1069.py   |
+| 4    | Increasing Array           | Introductory Problems | 1094.py   |
+| 5    | Permutations               | Introductory Problems | 1070.py   |
+| 6    | Number Spiral              | Introductory Problems | 1071.py   |
+| 7    | Distinct Numbers           | Sorting and Searching | 1621.py   |
+| 8    | Sum of Two Values          | Sorting and Searching | 1640.cpp  | 
+| 9    | Two Knights                | Introductory Problems | 1072.cpp  |
+| 10   | Two Sets                   | Introductory Problems | 1092.cpp  |
+| 11   | Bit Strings                | Introductory Problems | 1617.cpp  |
+| 12   | Trailing Zeros             | Introductory Problems | 1618.cpp  |
+| 13   | Palindrome Reorder         | Introductory Problems | 1755.cpp  |
+| 14   | Coin Piles                 | Introductory Problems | 1754.cpp  |
+| 15   | Creating Strings           | Introductory Problems | 1622.cpp  |
 
 ### 2. Codeforces
 | No   | Problem Name                                                              | File Name     |
@@ -26,17 +32,18 @@
 | 9    | Codeforces Beta Round 4 (Div. 2 Only) C. Registration System              | ILK-515.cpp   |  
 
 ### 3. vnoi
-| No   | Problem Name                                       | File Name     |
-|------|----------------------------------------------------|---------------|
-| 1    | Bedao Mini Contest 25 - Trọng số lẻ                | 50H-16660.cpp |
+| No   | Problem Name                                       | File Name       |
+|------|----------------------------------------------------|-----------------|
+| 1    | Bedao Mini Contest 25 - Trọng số lẻ                | bedao_m25_a.cpp |
 
 ### 4. lqdoj
-| No   | Problem Name                                       | File Name     |
-|------|----------------------------------------------------|---------------|
-| 1    | Hành Trình Không Dừng                              | 36B-02568.cpp |
+| No   | Problem Name                                       | File Name              |
+|------|----------------------------------------------------|------------------------|
+| 1    | Hành Trình Không Dừng                              | hanhtrinhkhongdung.cpp |
 
 ### 5. LeetCode
-| No   | Problem Name                                       | File Name     |
-|------|----------------------------------------------------|---------------|
-| 1    | 1.Two Sum                                          | 29H-93843.cpp |
-| 2    | 3. Longest Substring Without Repeating Characters  | 29K-09863.cpp | 
+| No   | Problem Name                                      | Level  | File Name     |
+|------|---------------------------------------------------|--------|---------------|
+| 1    | 1.Two Sum                                         | Easy   | 29H-93843.cpp |
+| 2    | 3. Longest Substring Without Repeating Characters | Medium | 29K-09863.cpp |
+| 3    | 7. Reverse Integer                                | Medium | 29B-61520.cpp | 
